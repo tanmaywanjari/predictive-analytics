@@ -1,0 +1,5 @@
+Model,MAE,RMSE,MAPE_pct
+Linear Regression (trend+season),4573.64,6129.3,4.56
+Random Forest (lags),5700.18,6616.34,5.09
+Gradient Boosting (lags),5750.52,6734.93,5.11
+Seasonal Naive (baseline),8944.97,9890.55,7.93
